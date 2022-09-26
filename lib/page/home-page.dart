@@ -90,29 +90,6 @@ class _HomePageState extends State<HomePage> {
                           fontWeight: FontWeight.normal,
                         ),
                       ),
-
-                      // Column(
-                      //   mainAxisAlignment: MainAxisAlignment.start,
-                      //   children: [
-                      //     Text(
-                      //       "Location",
-                      //       style: GoogleFonts.mukta(
-                      //         fontSize: 20,
-                      //         fontWeight: FontWeight.normal,
-                      //       ),
-                      //     ),
-                      //     const SizedBox(
-                      //       height: 0.0,
-                      //     ),
-                      //     Text(
-                      //       "Selected Location",
-                      //       style: GoogleFonts.mukta(
-                      //         fontSize: 18,
-                      //         fontWeight: FontWeight.bold,
-                      //       ),
-                      //     )
-                      //   ],
-                      // )
                     ],
                   ),
                 ),
